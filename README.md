@@ -1,1 +1,1 @@
-# custom-mcp-server also custome ai agent
+# custom-mcp-server also custom ai agent
